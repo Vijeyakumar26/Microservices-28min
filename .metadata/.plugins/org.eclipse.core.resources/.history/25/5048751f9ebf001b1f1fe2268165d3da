@@ -9,14 +9,12 @@ import com.rest.bean.HelloWorldBean;
 @RestController
 public class HelloWorldController {
 	
-	//adding URI and returing String
 	@GetMapping(path = "/hello-world")
 	public String helloWorld()
 	{
 		return "Hello World!";
 	}
 	
-	//returing a bean 
 	@GetMapping(path = "/hello-world-bean")
 	public HelloWorldBean helloWorldBean()
 	{
