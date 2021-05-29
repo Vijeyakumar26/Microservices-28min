@@ -1,0 +1,5 @@
+package com.rest.bean;
+
+public class User {
+
+}

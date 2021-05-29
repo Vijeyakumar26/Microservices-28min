@@ -1,0 +1,18 @@
+package com.rest.user;
+
+import java.util.ArrayList;
+import java.util.Date;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class UserDAO {
+	
+	private static ArrayList<User> userlist = new ArrayList<>();
+	
+	static {
+		userlist.add(new User(1,"Jonas",new Date()));
+		userlist.add(new User(2,"Marth",new Date()));
+		userlist.add(new User(3,"Mikkel",new Date()));
+	}
+}
