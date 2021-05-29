@@ -36,7 +36,7 @@ public class UserController {
 //	}
 	
 	@PostMapping("/users")
-	public ResponseEntity<Object> createUser(@RequestBody User user) {
+	public ResponseEntity<Object> createUser(@Valid @RequestBody User user) {
 		User savedUser = userDAO.save(user);
 		// CREATED
 		// /user/{id}     savedUser.getId()

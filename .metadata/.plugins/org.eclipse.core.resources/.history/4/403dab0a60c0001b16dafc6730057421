@@ -30,13 +30,13 @@ public class UserController {
 		return userDAO.findOne(id);
 	}
 	
-//	@PostMapping(path ="/users")
-//	public void saveUser(@RequestBody  User user) {
-//		userDAO.save(user);
-//	}
+	@PostMapping(path ="/users")
+	public void saveUser(@RequestBody  User user) {
+		userDAO.save(user);
+	}
 	
 	@PostMapping("/users")
-	public ResponseEntity<Object> createUser(@RequestBody User user) {
+	public ResponseEntity<Object> createUser(@Valid @RequestBody User user) {
 		User savedUser = userDAO.save(user);
 		// CREATED
 		// /user/{id}     savedUser.getId()
