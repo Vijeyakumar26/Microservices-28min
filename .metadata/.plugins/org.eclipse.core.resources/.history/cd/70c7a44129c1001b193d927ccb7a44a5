@@ -1,0 +1,11 @@
+package com.rest.exception;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+@Controller
+@RestController //As it sends response
+public class CustomizedResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {
+	
+}
