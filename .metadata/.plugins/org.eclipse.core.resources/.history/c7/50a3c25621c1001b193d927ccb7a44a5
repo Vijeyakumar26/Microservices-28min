@@ -30,7 +30,7 @@ public class UserController {
 		User user = userDAO.findOne(id);
 		if(user==null)
 		{
-			throw new UserNotFoundException("id-"+id);
+			throw new UserNotFoundException("id -"+id);
 		}
 		return userDAO.findOne(id);
 	}

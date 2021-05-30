@@ -1,0 +1,6 @@
+package com.rest.user;
+
+public class UserNotFoundException extends Exception {
+	
+	
+}
