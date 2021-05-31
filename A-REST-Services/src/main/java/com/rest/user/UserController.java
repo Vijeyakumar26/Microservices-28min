@@ -1,11 +1,16 @@
 package com.rest.user;
 
+import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
+import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
+
 import java.net.URI;
 import java.util.List;
 
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.hateoas.EntityModel;
+import org.springframework.hateoas.server.mvc.WebMvcLinkBuilder;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -28,20 +33,23 @@ public class UserController {
 	}
 	
 	@GetMapping(path = "/users/{id}")
-	public User retrieveUser(@PathVariable int id) throws UserNotFoundException
+	public EntityModel<User> retrieveUser(@PathVariable int id) throws UserNotFoundException //Implementing HATEOAS by 
+																							//returning EntityModel instead of Entity
 	{
 		User user = userDAO.findOne(id);
+		
 		if(user==null)
-		{
 			throw new UserNotFoundException("id-"+id);
-		}
-		return userDAO.findOne(id);
+		
+		EntityModel<User> model = EntityModel.of(user);
+		
+		WebMvcLinkBuilder linkTo = 	
+				linkTo(methodOn(this.getClass()).retrieveAllUsers());//providing the link of retrieveAllUsers with the Response.
+		
+		model.add(linkTo.withRel("all-users"));
+		
+		return model;
 	}
-	
-//	@PostMapping(path ="/users")
-//	public void saveUser(@RequestBody  User user) {
-//		userDAO.save(user);
-//	}
 	
 	@PostMapping("/users")
 	public ResponseEntity<Object> createUser(@Valid @RequestBody User user) {//Valid annotation to check attributes specified in entity
@@ -54,8 +62,7 @@ public class UserController {
 			.path("/{id}")
 			.buildAndExpand(savedUser.getId()).toUri();
 		
-		return ResponseEntity.created(location).build();
-		
+		return ResponseEntity.created(location).build();	
 	}
 	
 	@DeleteMapping(path = "/users/{id}")
