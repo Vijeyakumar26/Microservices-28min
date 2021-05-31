@@ -40,7 +40,9 @@ public class HelloWorldController {
 	@GetMapping(path = "/hello-world-internationalized")
 	public String helloWorldInternationalized(@RequestHeader(name = "Accept-Language", required = false)Locale locale)
 	{										//Accepting language from headers and taking locale requestheader
-		return "Hello World!";
+		//return "Hello World!";
+		
+		return messageSource.getMessage("good.morning.message", null, "Default Message", locale);
 		
 		//en - Hellow World
 		//nl - Goede Morgen
