@@ -1,16 +1,17 @@
 package com.rest.filtering;
 
+import com.fasterxml.jackson.annotation.JsonFilter;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-@JsonIgnoreProperties(value = "field1")
+@JsonFilter("SomeBeanFilter") //dynamic Filtering to give the name of the filter provider in DynamicFilterControler
+//@JsonIgnoreProperties(value = "field1") //static fitering
 public class SomeBean {
 	
 	private String field1;
 
 	private String field2;
 	
-	@JsonIgnore				//ignores attribute in response
+	//@JsonIgnore				//ignores attribute in response
 	private String field3;
 
 	public SomeBean(String field1, String field2, String field3) {
