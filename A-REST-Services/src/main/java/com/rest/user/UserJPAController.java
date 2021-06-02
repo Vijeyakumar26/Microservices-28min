@@ -27,6 +27,8 @@ public class UserJPAController {
 	@Autowired
 	private UserRepository userRepository;
 	
+	@Autowired
+	private PostRepository postRepository;
 	
 	@GetMapping(path = "jpa/users")
 	public List<User> retrieveAllUsers()
@@ -80,5 +82,29 @@ public class UserJPAController {
 		
 		return userOptional.get().getPosts();
 		
+	}
+	
+	@PostMapping("jpa/users/{id}/posts")
+	public ResponseEntity<Object> createPosts(@PathVariable int id , @RequestBody Post post) throws UserNotFoundException{
+		
+		//creating post for a specific user
+
+		Optional<User> userOptional = userRepository.findById(id);
+		
+		if(!userOptional.isPresent())
+			throw new UserNotFoundException("id-"+id);
+		
+		User user = userOptional.get(); //getting user from userOptional
+		
+		post.setUser(user);
+		
+		postRepository.save(post);
+		
+		URI location = ServletUriComponentsBuilder
+				.fromCurrentRequest()
+				.path("/{id}")
+				.buildAndExpand(post.getId()).toUri();
+		
+		return ResponseEntity.created(location).build();	
 	}
 }
