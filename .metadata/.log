@@ -6851,3 +6851,18 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-05 19:09:04.647
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dsBikQxm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-05 19:09:04.649
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dsBikQxm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-05 19:09:04.650
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-05 19:09:04.651
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dsBikQxm => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-06-05 19:09:06.391
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
