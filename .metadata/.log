@@ -9581,3 +9581,33 @@ java.lang.IllegalStateException: Builder must not be set
 
 !ENTRY org.eclipse.ui 2 2 2021-06-09 11:09:40.337
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:21:42.177
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:21:42.403
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:21:42.416
+!MESSAGE buffering callback sts4.classpath.WwmyVnKK currency-exchange-service false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:21:42.417
+!MESSAGE executing callback sts4.classpath.WwmyVnKK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:21:43.608
+!MESSAGE executing callback sts4.classpath.WwmyVnKK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:23:12.668
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:23:12.684
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:23:12.698
+!MESSAGE buffering callback sts4.classpath.WwmyVnKK currency-exchange-service false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:23:12.699
+!MESSAGE executing callback sts4.classpath.WwmyVnKK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 13:23:12.891
+!MESSAGE executing callback sts4.classpath.WwmyVnKK SUCCESS [done]
