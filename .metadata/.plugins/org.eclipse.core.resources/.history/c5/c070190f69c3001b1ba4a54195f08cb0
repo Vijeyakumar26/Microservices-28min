@@ -1,3 +1,0 @@
-management.endpoints.web.exposure.include=*
-spring.security.user.name=username
-spring.security.user.password=6652bef5-dbf1-47d9-bf44-d3a3418a1692

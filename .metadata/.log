@@ -10050,3 +10050,15 @@ java.lang.IllegalStateException: Builder must not be set
 	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
 	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 20:18:48.607
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WwmyVnKK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 20:18:48.737
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.WwmyVnKK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 20:18:48.739
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-09 20:18:48.739
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WwmyVnKK => OK
