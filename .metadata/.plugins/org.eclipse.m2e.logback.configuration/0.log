@@ -5008,3 +5008,768 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-06-11 12:09:18,210 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-11 12:09:18,210 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-06-11 12:09:18,210 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:43:46,742 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:43:46,742 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:43:46,744 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 12:43:46,934 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:43:46,980 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:43:46,980 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:43:46,980 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-conversion-service\src\test\resources
+2021-06-11 12:51:19,946 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:19,947 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:19,947 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:19,947 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:19,949 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:19,949 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:19,949 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:51:22,186 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:22,186 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:22,186 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:22,187 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:22,189 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:22,189 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:22,189 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:51:48,406 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:48,406 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:48,406 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:48,406 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:48,408 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:48,408 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:48,408 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:51:49,497 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:49,497 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:49,497 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:49,497 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:51:49,500 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:51:49,500 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:51:49,500 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:52:06,638 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:06,638 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:06,638 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:06,638 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:06,640 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:06,641 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:06,641 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:52:07,673 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:07,673 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:07,673 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:07,673 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:07,675 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:07,675 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:07,675 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 12:52:10,796 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:10,796 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:10,796 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:10,796 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 12:52:10,798 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 12:52:10,798 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 12:52:10,798 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 13:13:43,430 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:api-gateway:0.0.1-SNAPSHOT @ F:\Java\TrialWorkspace\Micro-28min\api-gateway\pom.xml.
+2021-06-11 13:14:05,220 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:05,802 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:06,373 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.210856-34.pom
+2021-06-11 13:14:06,650 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.210856-34.pom
+2021-06-11 13:14:07,564 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:07,941 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:08,223 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway/3.0.4-SNAPSHOT/spring-cloud-gateway-3.0.4-20210610.210145-35.pom
+2021-06-11 13:14:08,494 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway/3.0.4-SNAPSHOT/spring-cloud-gateway-3.0.4-20210610.210145-35.pom
+2021-06-11 13:14:13,878 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:14,165 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:14,451 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34.pom
+2021-06-11 13:14:15,135 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34.pom
+2021-06-11 13:14:17,242 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.pom
+2021-06-11 13:14:18,438 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.pom
+2021-06-11 13:14:18,834 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.pom
+2021-06-11 13:14:19,327 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.pom
+2021-06-11 13:14:19,508 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.pom
+2021-06-11 13:14:19,992 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.pom
+2021-06-11 13:14:20,321 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.pom
+2021-06-11 13:14:20,507 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.pom
+2021-06-11 13:14:20,804 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.pom
+2021-06-11 13:14:21,088 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.pom
+2021-06-11 13:14:21,302 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.pom
+2021-06-11 13:14:21,492 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.pom
+2021-06-11 13:14:21,799 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-parent/4.1.65.Final/netty-parent-4.1.65.Final.pom
+2021-06-11 13:14:21,986 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.65.Final/netty-parent-4.1.65.Final.pom
+2021-06-11 13:14:22,752 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.65.Final/netty-parent-4.1.65.Final.pom
+2021-06-11 13:14:23,202 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.pom
+2021-06-11 13:14:23,392 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.pom
+2021-06-11 13:14:24,390 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.pom
+2021-06-11 13:14:25,171 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.pom
+2021-06-11 13:14:25,350 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.pom
+2021-06-11 13:14:25,900 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.pom
+2021-06-11 13:14:26,232 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.pom
+2021-06-11 13:14:26,413 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.pom
+2021-06-11 13:14:30,731 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.pom
+2021-06-11 13:14:31,157 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.pom
+2021-06-11 13:14:31,599 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.pom
+2021-06-11 13:14:31,796 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.pom
+2021-06-11 13:14:32,113 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.pom
+2021-06-11 13:14:32,299 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.pom
+2021-06-11 13:14:32,744 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.pom
+2021-06-11 13:14:33,232 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.pom
+2021-06-11 13:14:33,420 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.pom
+2021-06-11 13:14:33,735 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.pom
+2021-06-11 13:14:34,034 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.pom
+2021-06-11 13:14:34,230 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.pom
+2021-06-11 13:14:34,604 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.pom
+2021-06-11 13:14:34,941 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.pom
+2021-06-11 13:14:35,126 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.pom
+2021-06-11 13:14:35,323 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.pom
+2021-06-11 13:14:35,698 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.pom
+2021-06-11 13:14:35,893 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.pom
+2021-06-11 13:14:36,164 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.pom
+2021-06-11 13:14:36,722 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final.pom
+2021-06-11 13:14:36,950 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final.pom
+2021-06-11 13:14:37,153 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final.pom
+2021-06-11 13:14:37,615 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.pom
+2021-06-11 13:14:37,818 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.pom
+2021-06-11 13:14:38,061 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.pom
+2021-06-11 13:14:38,374 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final.pom
+2021-06-11 13:14:38,574 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final.pom
+2021-06-11 13:14:38,763 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final.pom
+2021-06-11 13:14:39,066 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.pom
+2021-06-11 13:14:39,342 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.pom
+2021-06-11 13:14:39,558 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.pom
+2021-06-11 13:14:39,852 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.pom
+2021-06-11 13:14:40,041 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.pom
+2021-06-11 13:14:40,923 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.pom
+2021-06-11 13:14:41,216 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.pom
+2021-06-11 13:14:41,406 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.pom
+2021-06-11 13:14:41,678 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.pom
+2021-06-11 13:14:42,091 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.pom
+2021-06-11 13:14:42,285 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.pom
+2021-06-11 13:14:42,500 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.pom
+2021-06-11 13:14:42,804 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:43,095 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/maven-metadata.xml
+2021-06-11 13:14:43,379 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-20210611.070757-133.pom
+2021-06-11 13:14:43,751 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-20210611.070757-133.pom
+2021-06-11 13:14:52,563 [AetherRepositoryConnector-repo.spring.io-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.210856-34.jar
+2021-06-11 13:14:53,427 [AetherRepositoryConnector-repo.spring.io-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34.jar
+2021-06-11 13:14:53,428 [AetherRepositoryConnector-repo.spring.io-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-20210611.070757-133.jar
+2021-06-11 13:14:53,697 [AetherRepositoryConnector-repo.spring.io-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.210856-34.jar
+2021-06-11 13:14:53,750 [AetherRepositoryConnector-repo.spring.io-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-20210611.070757-133.jar
+2021-06-11 13:14:53,866 [AetherRepositoryConnector-repo.spring.io-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34.jar
+2021-06-11 13:15:05,977 [AetherRepositoryConnector-repo.spring.io-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.jar
+2021-06-11 13:15:05,977 [AetherRepositoryConnector-repo.spring.io-5-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.jar
+2021-06-11 13:15:05,978 [AetherRepositoryConnector-repo.spring.io-5-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.jar
+2021-06-11 13:15:05,988 [AetherRepositoryConnector-repo.spring.io-5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.jar
+2021-06-11 13:15:06,011 [AetherRepositoryConnector-repo.spring.io-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.jar
+2021-06-11 13:15:06,238 [AetherRepositoryConnector-repo.spring.io-5-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.jar
+2021-06-11 13:15:06,260 [AetherRepositoryConnector-repo.spring.io-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.jar
+2021-06-11 13:15:06,260 [AetherRepositoryConnector-repo.spring.io-5-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.jar
+2021-06-11 13:15:06,275 [AetherRepositoryConnector-repo.spring.io-5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.jar
+2021-06-11 13:15:06,283 [AetherRepositoryConnector-repo.spring.io-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.jar
+2021-06-11 13:15:06,509 [AetherRepositoryConnector-repo.spring.io-5-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.jar
+2021-06-11 13:15:06,542 [AetherRepositoryConnector-repo.spring.io-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.jar
+2021-06-11 13:15:06,542 [AetherRepositoryConnector-repo.spring.io-5-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.jar
+2021-06-11 13:15:06,557 [AetherRepositoryConnector-repo.spring.io-5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-osx-x86_64.jar
+2021-06-11 13:15:06,559 [AetherRepositoryConnector-repo.spring.io-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.jar
+2021-06-11 13:15:06,792 [AetherRepositoryConnector-repo.spring.io-5-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-linux-x86_64.jar
+2021-06-11 13:15:06,828 [AetherRepositoryConnector-repo.spring.io-5-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.jar
+2021-06-11 13:15:06,835 [AetherRepositoryConnector-repo.spring.io-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.jar
+2021-06-11 13:15:06,840 [AetherRepositoryConnector-repo.spring.io-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.jar
+2021-06-11 13:15:06,840 [AetherRepositoryConnector-repo.spring.io-5-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.jar
+2021-06-11 13:15:07,372 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.jar
+2021-06-11 13:15:07,553 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.jar
+2021-06-11 13:15:07,566 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.jar
+2021-06-11 13:15:07,671 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.jar
+2021-06-11 13:15:07,849 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.jar
+2021-06-11 13:15:07,962 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1.jar
+2021-06-11 13:15:07,964 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1.jar
+2021-06-11 13:15:08,525 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.jar
+2021-06-11 13:15:08,525 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.jar
+2021-06-11 13:15:10,390 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7.jar
+2021-06-11 13:15:11,276 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.jar
+2021-06-11 13:15:11,281 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final.jar
+2021-06-11 13:15:11,282 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final.jar
+2021-06-11 13:15:12,499 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final.jar
+2021-06-11 13:15:12,501 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.jar
+2021-06-11 13:15:12,536 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final.jar
+2021-06-11 13:15:13,481 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.jar
+2021-06-11 13:15:13,930 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final.jar
+2021-06-11 13:15:13,935 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.jar
+2021-06-11 13:15:14,120 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.jar
+2021-06-11 13:15:14,139 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final.jar
+2021-06-11 13:15:14,150 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.jar
+2021-06-11 13:15:14,198 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final.jar
+2021-06-11 13:15:14,289 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final.jar
+2021-06-11 13:15:14,322 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final.jar
+2021-06-11 13:15:14,326 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-osx-x86_64.jar
+2021-06-11 13:15:14,475 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.jar
+2021-06-11 13:15:14,753 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-linux-x86_64.jar
+2021-06-11 13:15:14,756 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.jar
+2021-06-11 13:15:14,762 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final.jar
+2021-06-11 13:15:15,023 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final.jar
+2021-06-11 13:15:15,023 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-osx-x86_64.jar
+2021-06-11 13:15:15,033 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.jar
+2021-06-11 13:15:15,043 [AetherRepositoryConnector-repo.maven.apache.org-6-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-linux-x86_64.jar
+2021-06-11 13:15:15,216 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.jar
+2021-06-11 13:15:15,293 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.jar
+2021-06-11 13:15:16,127 [AetherRepositoryConnector-repo.maven.apache.org-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7.jar
+2021-06-11 13:15:16,128 [AetherRepositoryConnector-repo.maven.apache.org-6-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final.jar
+2021-06-11 13:15:16,128 [AetherRepositoryConnector-repo.maven.apache.org-6-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final.jar
+2021-06-11 13:15:16,312 [AetherRepositoryConnector-repo.maven.apache.org-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8.jar
+2021-06-11 13:15:49,423 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-SNAPSHOT-sources.jar
+2021-06-11 13:15:49,430 [Worker-83: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-gateway:3.0.4-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:3.0.4-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-06-11 13:15:49,855 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34-sources.jar
+2021-06-11 13:15:49,863 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2021-06-11 13:15:49,864 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-06-11 13:15:49,872 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-06-11 13:15:49,883 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2021-06-11 13:15:50,941 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-gateway-server/3.0.4-SNAPSHOT/spring-cloud-gateway-server-3.0.4-20210610.210846-34-sources.jar
+2021-06-11 13:15:57,175 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-gateway-server:3.0.4-SNAPSHOT
+2021-06-11 13:15:57,659 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1-sources.jar
+2021-06-11 13:15:58,536 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1-sources.jar
+2021-06-11 13:15:59,092 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/2.5.1/spring-boot-starter-webflux-2.5.1-sources.jar
+2021-06-11 13:16:04,073 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:2.5.1
+2021-06-11 13:16:04,569 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1-sources.jar
+2021-06-11 13:16:05,337 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1-sources.jar
+2021-06-11 13:16:05,714 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/2.5.1/spring-boot-starter-reactor-netty-2.5.1-sources.jar
+2021-06-11 13:16:10,868 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:2.5.1
+2021-06-11 13:16:11,248 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7-sources.jar
+2021-06-11 13:16:12,000 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7-sources.jar
+2021-06-11 13:16:12,566 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.0.7/reactor-netty-http-1.0.7-sources.jar
+2021-06-11 13:16:15,099 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.0.7
+2021-06-11 13:16:15,505 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final-sources.jar
+2021-06-11 13:16:16,263 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final-sources.jar
+2021-06-11 13:16:17,367 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.65.Final/netty-codec-http-4.1.65.Final-sources.jar
+2021-06-11 13:16:22,669 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 180 sec
+2021-06-11 13:16:22,671 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-11 13:16:23,089 [Worker-83: Download sources and javadoc] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2021-06-11 13:16:23,092 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.65.Final
+2021-06-11 13:16:24,280 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:api-gateway:0.0.1-SNAPSHOT @ F:\Java\TrialWorkspace\Micro-28min\api-gateway\pom.xml.
+2021-06-11 13:16:27,189 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final-sources.jar
+2021-06-11 13:16:28,005 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final-sources.jar
+2021-06-11 13:16:29,046 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.65.Final/netty-common-4.1.65.Final-sources.jar
+2021-06-11 13:16:34,280 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.65.Final
+2021-06-11 13:16:35,796 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2021-06-11 13:16:35,796 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-06-11 13:16:35,799 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2021-06-11 13:16:35,803 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2021-06-11 13:16:37,711 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final-sources.jar
+2021-06-11 13:16:38,015 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2021-06-11 13:16:38,486 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final-sources.jar
+2021-06-11 13:16:39,064 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.65.Final/netty-buffer-4.1.65.Final-sources.jar
+2021-06-11 13:16:41,308 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:16:41,308 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:16:41,308 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 13:16:41,310 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:16:41,312 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:16:41,312 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:16:41,312 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:16:41,588 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.65.Final
+2021-06-11 13:16:41,960 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final-sources.jar
+2021-06-11 13:16:42,842 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final-sources.jar
+2021-06-11 13:16:43,661 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.65.Final/netty-transport-4.1.65.Final-sources.jar
+2021-06-11 13:16:51,670 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.65.Final
+2021-06-11 13:16:52,002 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final-sources.jar
+2021-06-11 13:16:52,786 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final-sources.jar
+2021-06-11 13:16:53,626 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.65.Final/netty-codec-4.1.65.Final-sources.jar
+2021-06-11 13:16:55,381 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.65.Final
+2021-06-11 13:16:55,786 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final-sources.jar
+2021-06-11 13:16:56,500 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final-sources.jar
+2021-06-11 13:16:57,261 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.65.Final/netty-handler-4.1.65.Final-sources.jar
+2021-06-11 13:16:58,383 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.65.Final
+2021-06-11 13:16:58,763 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final-sources.jar
+2021-06-11 13:16:59,507 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final-sources.jar
+2021-06-11 13:17:00,312 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.65.Final/netty-codec-http2-4.1.65.Final-sources.jar
+2021-06-11 13:17:01,783 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.65.Final
+2021-06-11 13:17:02,253 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:03,019 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:03,482 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.65.Final/netty-resolver-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:06,117 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.65.Final
+2021-06-11 13:17:06,599 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final-sources.jar
+2021-06-11 13:17:07,288 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final-sources.jar
+2021-06-11 13:17:07,627 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.65.Final/netty-resolver-4.1.65.Final-sources.jar
+2021-06-11 13:17:09,016 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.65.Final
+2021-06-11 13:17:09,475 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:10,189 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:10,670 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.65.Final/netty-codec-dns-4.1.65.Final-sources.jar
+2021-06-11 13:17:11,723 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.65.Final
+2021-06-11 13:17:12,072 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-sources.jar
+2021-06-11 13:17:12,822 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-sources.jar
+2021-06-11 13:17:13,182 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.65.Final/netty-resolver-dns-native-macos-4.1.65.Final-sources.jar
+2021-06-11 13:17:15,490 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-native-macos:4.1.65.Final:osx-x86_64
+2021-06-11 13:17:15,947 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final-sources.jar
+2021-06-11 13:17:16,907 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final-sources.jar
+2021-06-11 13:17:17,324 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.65.Final/netty-transport-native-unix-common-4.1.65.Final-sources.jar
+2021-06-11 13:17:18,931 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.65.Final
+2021-06-11 13:17:19,285 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-sources.jar
+2021-06-11 13:17:20,184 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-sources.jar
+2021-06-11 13:17:20,616 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.65.Final/netty-transport-native-epoll-4.1.65.Final-sources.jar
+2021-06-11 13:17:23,494 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.65.Final:linux-x86_64
+2021-06-11 13:17:23,853 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7-sources.jar
+2021-06-11 13:17:24,647 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7-sources.jar
+2021-06-11 13:17:25,389 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.0.7/reactor-netty-core-1.0.7-sources.jar
+2021-06-11 13:17:27,051 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.0.7
+2021-06-11 13:17:27,921 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final-sources.jar
+2021-06-11 13:17:29,150 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final-sources.jar
+2021-06-11 13:17:29,769 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.65.Final/netty-handler-proxy-4.1.65.Final-sources.jar
+2021-06-11 13:17:30,073 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:30,073 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:30,074 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 13:17:30,089 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:17:30,091 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:30,092 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:30,092 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:17:30,622 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.65.Final
+2021-06-11 13:17:31,159 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final-sources.jar
+2021-06-11 13:17:31,871 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final-sources.jar
+2021-06-11 13:17:32,390 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.65.Final/netty-codec-socks-4.1.65.Final-sources.jar
+2021-06-11 13:17:34,645 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.65.Final
+2021-06-11 13:17:35,212 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8-sources.jar
+2021-06-11 13:17:35,950 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8-sources.jar
+2021-06-11 13:17:37,312 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/5.3.8/spring-webflux-5.3.8-sources.jar
+2021-06-11 13:17:40,284 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.3.8
+2021-06-11 13:17:40,662 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-SNAPSHOT-sources.jar
+2021-06-11 13:17:40,696 [Worker-83: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.4-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.0.4-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-06-11 13:17:41,097 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.022935-33-javadoc.jar
+2021-06-11 13:17:41,554 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:41,554 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:41,555 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 13:17:41,571 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:17:41,574 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:41,574 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:41,574 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:17:41,625 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-gateway/3.0.4-SNAPSHOT/spring-cloud-starter-gateway-3.0.4-20210610.022935-33-javadoc.jar
+2021-06-11 13:17:44,074 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-gateway:3.0.4-SNAPSHOT
+2021-06-11 13:17:44,082 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.65.Final
+2021-06-11 13:17:44,090 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.65.Final
+2021-06-11 13:17:44,097 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.65.Final
+2021-06-11 13:17:44,105 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.65.Final
+2021-06-11 13:17:44,112 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.65.Final
+2021-06-11 13:17:44,120 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.65.Final
+2021-06-11 13:17:44,128 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.65.Final
+2021-06-11 13:17:44,136 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.65.Final
+2021-06-11 13:17:44,144 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.65.Final
+2021-06-11 13:17:44,152 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-native-macos:4.1.65.Final:osx-x86_64
+2021-06-11 13:17:44,160 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.65.Final
+2021-06-11 13:17:44,181 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.65.Final:linux-x86_64
+2021-06-11 13:17:44,190 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.0.7
+2021-06-11 13:17:44,199 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.65.Final
+2021-06-11 13:17:44,209 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.65.Final
+2021-06-11 13:17:44,217 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.3.8
+2021-06-11 13:17:44,641 [Worker-83: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.0.4-SNAPSHOT/spring-cloud-starter-netflix-eureka-client-3.0.4-SNAPSHOT-javadoc.jar
+2021-06-11 13:17:44,658 [Worker-83: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.0.4-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.0.4-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-06-11 13:17:44,672 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.65.Final
+2021-06-11 13:17:44,677 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.65.Final
+2021-06-11 13:17:44,683 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.65.Final
+2021-06-11 13:17:44,689 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.65.Final
+2021-06-11 13:17:44,695 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.65.Final
+2021-06-11 13:17:44,703 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.65.Final
+2021-06-11 13:17:44,710 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.65.Final
+2021-06-11 13:17:44,718 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.65.Final
+2021-06-11 13:17:44,725 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-native-macos:4.1.65.Final:osx-x86_64
+2021-06-11 13:17:44,733 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.65.Final
+2021-06-11 13:17:44,741 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.65.Final:linux-x86_64
+2021-06-11 13:17:44,748 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.0.7
+2021-06-11 13:17:44,755 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.65.Final
+2021-06-11 13:17:44,761 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.65.Final
+2021-06-11 13:17:44,769 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.3.8
+2021-06-11 13:17:45,342 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.65.Final
+2021-06-11 13:17:45,356 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.65.Final
+2021-06-11 13:17:45,369 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.65.Final
+2021-06-11 13:17:45,377 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.65.Final
+2021-06-11 13:17:45,386 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.65.Final
+2021-06-11 13:17:45,394 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.65.Final
+2021-06-11 13:17:45,401 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.65.Final
+2021-06-11 13:17:45,409 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.65.Final
+2021-06-11 13:17:45,417 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-native-macos:4.1.65.Final:osx-x86_64
+2021-06-11 13:17:45,425 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.65.Final
+2021-06-11 13:17:45,433 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.65.Final:linux-x86_64
+2021-06-11 13:17:45,441 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.0.7
+2021-06-11 13:17:45,449 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.65.Final
+2021-06-11 13:17:45,457 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.65.Final
+2021-06-11 13:17:45,465 [Worker-83: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:5.3.8
+2021-06-11 13:17:51,314 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:51,314 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:51,315 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:17:51,315 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:17:51,318 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:17:51,318 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:17:51,318 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:36:15,518 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:36:15,519 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:36:15,519 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:36:15,519 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:36:15,521 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:36:15,521 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:36:15,521 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:37:56,196 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:37:56,196 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:37:56,197 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:37:56,197 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:37:56,199 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:37:56,199 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:37:56,199 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 13:43:09,675 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:43:09,675 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:43:09,675 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 13:43:09,709 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:43:09,712 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:43:09,712 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:43:09,712 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 13:50:30,719 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:50:30,719 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:50:30,719 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 13:50:30,924 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 13:50:53,265 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 13:50:53,265 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 13:50:53,265 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:00:14,408 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:14,409 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:14,410 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:00:14,472 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:00:14,476 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:14,476 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:14,476 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:00:29,127 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:29,127 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:29,128 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:00:29,171 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:00:29,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:29,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:29,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:00:34,422 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:34,422 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:34,423 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:00:34,437 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:00:34,440 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:00:34,440 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:00:34,440 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:01:03,077 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:01:03,077 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:01:03,078 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:01:03,095 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:01:03,097 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:01:03,097 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:01:03,097 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:43:22,109 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:43:22,109 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:43:22,110 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:43:22,295 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:43:22,299 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:43:22,299 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:43:22,299 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:43:42,112 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:43:42,112 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:43:42,113 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:43:42,278 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:43:42,283 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:43:42,283 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:43:42,283 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:45:10,033 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:45:10,033 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:45:10,034 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:45:10,094 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:45:10,130 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:45:10,130 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:45:10,130 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:45:28,903 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:45:28,903 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:45:28,904 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:45:28,964 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:45:28,967 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:45:28,967 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:45:28,968 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:46:41,709 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:46:41,709 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:46:41,710 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:46:41,748 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:46:41,751 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:46:41,751 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:46:41,751 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 14:46:59,999 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:46:59,999 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:47:00,000 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 14:47:00,014 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 14:47:00,016 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 14:47:00,016 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 14:47:00,017 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\api-gateway\src\test\resources
+2021-06-11 15:46:25,632 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-11 15:46:32,451 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:currency-exchange-service:0.0.1-SNAPSHOT @ F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\pom.xml.
+2021-06-11 15:46:47,043 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2.pom
+2021-06-11 15:46:47,498 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2.pom
+2021-06-11 15:46:47,762 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker/2.0.2/spring-cloud-starter-circuitbreaker-2.0.2.pom
+2021-06-11 15:46:48,631 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker/2.0.2/spring-cloud-starter-circuitbreaker-2.0.2.pom
+2021-06-11 15:46:48,844 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker/2.0.2/spring-cloud-circuitbreaker-2.0.2.pom
+2021-06-11 15:46:49,053 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker/2.0.2/spring-cloud-circuitbreaker-2.0.2.pom
+2021-06-11 15:46:49,275 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2.pom
+2021-06-11 15:46:49,515 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2.pom
+2021-06-11 15:46:49,748 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0.pom
+2021-06-11 15:46:49,967 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0.pom
+2021-06-11 15:46:50,186 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2.pom
+2021-06-11 15:46:50,388 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2.pom
+2021-06-11 15:46:50,603 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr-parent/0.10.2/vavr-parent-0.10.2.pom
+2021-06-11 15:46:50,870 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr-parent/0.10.2/vavr-parent-0.10.2.pom
+2021-06-11 15:46:51,099 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2.pom
+2021-06-11 15:46:51,327 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2.pom
+2021-06-11 15:46:51,567 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0.pom
+2021-06-11 15:46:51,775 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0.pom
+2021-06-11 15:46:52,017 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0.pom
+2021-06-11 15:46:52,280 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0.pom
+2021-06-11 15:46:52,502 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0.pom
+2021-06-11 15:46:52,759 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0.pom
+2021-06-11 15:46:52,990 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0.pom
+2021-06-11 15:46:53,191 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0.pom
+2021-06-11 15:46:53,443 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0.pom
+2021-06-11 15:46:53,648 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0.pom
+2021-06-11 15:46:53,872 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0.pom
+2021-06-11 15:46:54,171 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0.pom
+2021-06-11 15:46:54,384 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0.pom
+2021-06-11 15:46:54,614 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0.pom
+2021-06-11 15:46:54,845 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0.pom
+2021-06-11 15:46:55,104 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0.pom
+2021-06-11 15:46:55,315 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0.pom
+2021-06-11 15:46:55,517 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0.pom
+2021-06-11 15:46:55,728 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0.pom
+2021-06-11 15:46:55,948 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0.pom
+2021-06-11 15:46:56,160 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0.pom
+2021-06-11 15:46:56,399 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0.pom
+2021-06-11 15:46:57,333 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2.jar
+2021-06-11 15:46:57,537 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0.jar
+2021-06-11 15:46:57,537 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2.jar
+2021-06-11 15:46:57,597 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0.jar
+2021-06-11 15:46:57,803 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0.jar
+2021-06-11 15:46:57,832 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0.jar
+2021-06-11 15:46:58,018 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2.jar
+2021-06-11 15:46:58,027 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0.jar
+2021-06-11 15:46:58,110 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2.jar
+2021-06-11 15:46:58,173 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0.jar
+2021-06-11 15:46:58,225 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0.jar
+2021-06-11 15:46:58,229 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0.jar
+2021-06-11 15:46:58,363 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0.jar
+2021-06-11 15:46:58,369 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0.jar
+2021-06-11 15:46:58,422 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0.jar
+2021-06-11 15:46:58,565 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0.jar
+2021-06-11 15:46:58,587 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0.jar
+2021-06-11 15:46:58,592 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0.jar
+2021-06-11 15:46:58,898 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0.jar
+2021-06-11 15:46:58,901 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0.jar
+2021-06-11 15:46:58,967 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0.jar
+2021-06-11 15:46:59,009 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0.jar
+2021-06-11 15:46:59,009 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0.jar
+2021-06-11 15:46:59,110 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2.jar
+2021-06-11 15:46:59,416 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2.jar
+2021-06-11 15:46:59,434 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0.jar
+2021-06-11 15:46:59,434 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0.jar
+2021-06-11 15:46:59,513 [AetherRepositoryConnector-repo.maven.apache.org-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0.jar
+2021-06-11 15:46:59,671 [AetherRepositoryConnector-repo.maven.apache.org-7-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2.jar
+2021-06-11 15:46:59,719 [AetherRepositoryConnector-repo.maven.apache.org-7-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0.jar
+2021-06-11 15:46:59,783 [AetherRepositoryConnector-repo.maven.apache.org-7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0.jar
+2021-06-11 15:46:59,841 [AetherRepositoryConnector-repo.maven.apache.org-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2.jar
+2021-06-11 15:47:15,821 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency-exchange-service/src/main/java
+2021-06-11 15:47:15,822 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /currency-exchange-service/src/main/resources
+2021-06-11 15:47:15,822 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /currency-exchange-service/src/main/resources
+2021-06-11 15:47:15,823 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /currency-exchange-service/src/test/java
+2021-06-11 15:47:19,626 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2-sources.jar
+2021-06-11 15:47:20,137 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-circuitbreaker-resilience4j/2.0.2/spring-cloud-starter-circuitbreaker-resilience4j-2.0.2-sources.jar
+2021-06-11 15:47:20,491 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-resilience4j:2.0.2
+2021-06-11 15:47:21,385 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2-sources.jar
+2021-06-11 15:47:21,635 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 56 sec
+2021-06-11 15:47:21,810 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-circuitbreaker-resilience4j/2.0.2/spring-cloud-circuitbreaker-resilience4j-2.0.2-sources.jar
+2021-06-11 15:47:22,342 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-circuitbreaker-resilience4j:2.0.2
+2021-06-11 15:47:22,480 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:47:22,480 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:47:22,481 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:47:22,484 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:47:22,511 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:47:22,511 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:47:22,511 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 15:47:23,083 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0-sources.jar
+2021-06-11 15:47:23,461 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring-boot2/1.7.0/resilience4j-spring-boot2-1.7.0-sources.jar
+2021-06-11 15:47:23,751 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-spring-boot2:1.7.0
+2021-06-11 15:47:24,467 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0-sources.jar
+2021-06-11 15:47:24,826 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-spring/1.7.0/resilience4j-spring-1.7.0-sources.jar
+2021-06-11 15:47:24,995 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-spring:1.7.0
+2021-06-11 15:47:25,802 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0-sources.jar
+2021-06-11 15:47:26,213 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-annotations/1.7.0/resilience4j-annotations-1.7.0-sources.jar
+2021-06-11 15:47:26,713 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-annotations:1.7.0
+2021-06-11 15:47:27,822 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0-sources.jar
+2021-06-11 15:47:28,465 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-consumer/1.7.0/resilience4j-consumer-1.7.0-sources.jar
+2021-06-11 15:47:28,715 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-consumer:1.7.0
+2021-06-11 15:47:29,951 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0-sources.jar
+2021-06-11 15:47:30,609 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circularbuffer/1.7.0/resilience4j-circularbuffer-1.7.0-sources.jar
+2021-06-11 15:47:31,330 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-circularbuffer:1.7.0
+2021-06-11 15:47:32,245 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0-sources.jar
+2021-06-11 15:47:32,591 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-framework-common/1.7.0/resilience4j-framework-common-1.7.0-sources.jar
+2021-06-11 15:47:32,726 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-framework-common:1.7.0
+2021-06-11 15:47:33,422 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0-sources.jar
+2021-06-11 15:47:33,766 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-ratelimiter/1.7.0/resilience4j-ratelimiter-1.7.0-sources.jar
+2021-06-11 15:47:34,105 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-ratelimiter:1.7.0
+2021-06-11 15:47:34,903 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0-sources.jar
+2021-06-11 15:47:35,378 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-retry/1.7.0/resilience4j-retry-1.7.0-sources.jar
+2021-06-11 15:47:35,528 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-retry:1.7.0
+2021-06-11 15:47:36,315 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0-sources.jar
+2021-06-11 15:47:36,706 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-micrometer/1.7.0/resilience4j-micrometer-1.7.0-sources.jar
+2021-06-11 15:47:36,955 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-micrometer:1.7.0
+2021-06-11 15:47:37,794 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0-sources.jar
+2021-06-11 15:47:38,185 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-circuitbreaker/1.7.0/resilience4j-circuitbreaker-1.7.0-sources.jar
+2021-06-11 15:47:38,450 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-circuitbreaker:1.7.0
+2021-06-11 15:47:39,194 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2-sources.jar
+2021-06-11 15:47:40,122 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr/0.10.2/vavr-0.10.2-sources.jar
+2021-06-11 15:47:40,500 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.vavr:vavr:0.10.2
+2021-06-11 15:47:41,268 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2-sources.jar
+2021-06-11 15:47:41,677 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/vavr/vavr-match/0.10.2/vavr-match-0.10.2-sources.jar
+2021-06-11 15:47:42,294 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.vavr:vavr-match:0.10.2
+2021-06-11 15:47:43,056 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0-sources.jar
+2021-06-11 15:47:43,460 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-core/1.7.0/resilience4j-core-1.7.0-sources.jar
+2021-06-11 15:47:43,620 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-core:1.7.0
+2021-06-11 15:47:44,416 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0-sources.jar
+2021-06-11 15:47:44,840 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/resilience4j/resilience4j-timelimiter/1.7.0/resilience4j-timelimiter-1.7.0-sources.jar
+2021-06-11 15:47:45,007 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-timelimiter:1.7.0
+2021-06-11 15:47:45,015 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-circuitbreaker-resilience4j:2.0.2
+2021-06-11 15:47:45,020 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-circuitbreaker-resilience4j:2.0.2
+2021-06-11 15:47:45,026 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-spring-boot2:1.7.0
+2021-06-11 15:47:45,034 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-spring:1.7.0
+2021-06-11 15:47:45,042 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-annotations:1.7.0
+2021-06-11 15:47:45,048 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-consumer:1.7.0
+2021-06-11 15:47:45,054 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-circularbuffer:1.7.0
+2021-06-11 15:47:45,060 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-framework-common:1.7.0
+2021-06-11 15:47:45,069 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-ratelimiter:1.7.0
+2021-06-11 15:47:45,077 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-retry:1.7.0
+2021-06-11 15:47:45,085 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-micrometer:1.7.0
+2021-06-11 15:47:45,093 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-circuitbreaker:1.7.0
+2021-06-11 15:47:45,100 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.vavr:vavr:0.10.2
+2021-06-11 15:47:45,108 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.vavr:vavr-match:0.10.2
+2021-06-11 15:47:45,116 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-core:1.7.0
+2021-06-11 15:47:45,124 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.resilience4j:resilience4j-timelimiter:1.7.0
+2021-06-11 15:47:49,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:47:49,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:47:49,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 15:47:49,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 15:47:49,113 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:47:49,114 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:47:49,114 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 15:51:53,664 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:51:53,664 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:51:53,666 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:51:54,437 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:51:54,444 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:51:54,445 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:51:54,445 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 15:53:52,005 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:53:52,005 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:53:52,007 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:53:52,035 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 15:53:52,037 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 15:53:52,037 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 15:53:52,038 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:12:39,550 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:12:39,550 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:12:39,552 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:12:39,691 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:12:39,694 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:12:39,694 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:12:39,694 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:14:26,155 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:14:26,155 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:14:26,157 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:14:26,172 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:14:26,175 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:14:26,175 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:14:26,175 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:15:01,579 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:15:01,580 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:15:01,581 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:15:01,596 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:15:01,599 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:15:01,599 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:15:01,599 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:15:23,509 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:15:23,509 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:15:23,511 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:15:23,518 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:15:23,523 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:15:23,523 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:15:23,523 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:17:22,101 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:22,101 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:22,103 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:22,118 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:22,121 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:22,121 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:22,122 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:17:30,554 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:30,554 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:30,556 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:30,565 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:30,568 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:30,568 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:30,568 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:17:41,274 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:41,275 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:41,277 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:41,285 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:41,287 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:41,288 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:41,288 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:17:52,409 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:52,409 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:52,411 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:52,419 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:17:52,423 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:17:52,423 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:17:52,423 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-11 16:18:40,254 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:18:40,254 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:18:40,255 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-11 16:18:40,323 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-11 16:18:40,327 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-11 16:18:40,327 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-11 16:18:40,327 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
