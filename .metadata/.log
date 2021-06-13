@@ -49,3 +49,15 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-13 16:20:26.250
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YLIcpwBr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-13 16:20:26.300
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YLIcpwBr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-13 16:20:26.301
+!MESSAGE subsribers = {sts4.classpath.ysbCtFiI=Send Classpath Notifications(121)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-13 16:20:26.301
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YLIcpwBr => OK

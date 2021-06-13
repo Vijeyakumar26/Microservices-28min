@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.actuator=6
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.amqp=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-client=3
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-server=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=3
@@ -7,6 +8,7 @@ org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka-serve
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-feign=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-gateway=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-resilience4j=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-starter-zipkin=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=3
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-rest-explorer=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=7
