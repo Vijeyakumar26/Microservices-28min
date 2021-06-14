@@ -6293,3 +6293,21 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-06-14 15:58:43,544 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-14 15:58:43,544 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-06-14 15:58:43,544 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-14 22:05:23,787 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-14 22:28:35,930 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:currency-exchange-service:0.0.1-SNAPSHOT @ F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\pom.xml.
+2021-06-14 22:28:55,496 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-14 22:28:55,497 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-14 22:28:55,509 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-14 22:28:55,648 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-14 22:28:55,653 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-14 22:28:55,653 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-14 22:28:55,653 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service\src\test\resources
+2021-06-14 22:30:03,830 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-06-14 22:31:17,929 [Worker-36: Launching currency-exchange-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service
+2021-06-14 22:31:17,930 [Worker-36: Launching currency-exchange-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B spring-boot:build-image-DskipTests -Dstyle.color=always
+2021-06-14 22:32:13,183 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-06-14 22:32:13,495 [Worker-36: Launching currency-exchange-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service
+2021-06-14 22:32:13,496 [Worker-36: Launching currency-exchange-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B spring-boot:build-image-DskipTests -Dstyle.color=always
+2021-06-14 22:32:23,176 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-06-14 22:33:02,913 [Worker-39: Launching currency-exchange-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Java\TrialWorkspace\Micro-28min\currency-exchange-service
+2021-06-14 22:33:02,916 [Worker-39: Launching currency-exchange-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B spring-boot:build-image -DskipTests -Dstyle.color=always
