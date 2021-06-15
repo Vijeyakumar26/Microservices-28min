@@ -10,9 +10,13 @@ services:
           - currency-network
         depends_on:
           - naming-server
+          - rabbitmq
         environment:
            eureka.client.serviceUrl.defaultZone: http://naming-server:8761/eureka/
            spring.zipkin.baseUrl: http://zipkin-server:9411
+           rabbit_uri: amqp://guest:guest@rabbitmq:5672
+           spring_rabbitmq_host: rabbitmq
+           spring_zipkin_sender_type: rabbit
             
     naming-server:
         image: micro-28min/mmv2-naming-server:0.0.1-SNAPSHOT
@@ -31,9 +35,13 @@ services:
           - currency-network
         depends_on:
           - naming-server
+          - rabbitmq
         environment:
            eureka.client.serviceUrl.defaultZone: http://naming-server:8761/eureka/
            spring.zipkin.baseUrl: http://zipkin-server:9411
+           rabbit_uri: amqp://guest:guest@rabbitmq:5672
+           spring_rabbitmq_host: rabbitmq
+           spring_zipkin_sender_type: rabbit
            
     api-gateway:
         image: micro-28min/mmv2-api-gateway:0.0.1-SNAPSHOT
@@ -44,9 +52,13 @@ services:
           - currency-network
         depends_on:
           - naming-server
+          - rabbitmq
         environment:
            eureka.client.serviceUrl.defaultZone: http://naming-server:8761/eureka/
            spring.zipkin.baseUrl: http://zipkin-server:9411
+           rabbit_uri: amqp://guest:guest@rabbitmq:5672
+           spring_rabbitmq_host: rabbitmq
+           spring_zipkin_sender_type: rabbit
            
     zipkin-server:
         image: openzipkin/zipkin:2.23
@@ -55,11 +67,17 @@ services:
           - "9411:9411"
         networks: 
           - currency-network
+        depends_on:
+          - rabbitmq
+        environment:
+          rabbit_uri: amqp://guest:guest@rabbitmq:5672
+      
     rabbitmq:
         image: rabbitmq:3.8.12-management
         mem_limit: 300m
         ports:
           - "5672:5672"
+          - "15672:15672" 
         networks: 
           - currency-network
  
