@@ -1186,3 +1186,60 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.dadacoalition.yedit 4 0 2021-06-15 12:39:51.970
 !MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.214
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.507
+!MESSAGE classpath=190 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.532
+!MESSAGE buffering callback sts4.classpath.abAIaCuo api-gateway false 190
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.553
+!MESSAGE classpath=137 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.569
+!MESSAGE buffering callback sts4.classpath.abAIaCuo naming-server false 137
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:09.570
+!MESSAGE executing callback sts4.classpath.abAIaCuo 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 12:52:10.245
+!MESSAGE executing callback sts4.classpath.abAIaCuo SUCCESS [done]
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 12:56:31.058
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 12:57:37.493
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 13:26:07.076
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 13:26:36.146
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 13:31:30.100
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 13:33:36.156
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.dadacoalition.yedit 4 0 2021-06-15 13:40:51.665
+!MESSAGE Marking errors not supported for files outside of a project.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 13:43:27.629
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.abAIaCuo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 13:43:27.630
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.abAIaCuo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 13:43:27.631
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-15 13:43:27.632
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.abAIaCuo => OK
