@@ -11,7 +11,7 @@ services:
         depends_on:
           - naming-server
         environment: 
-          EUREKA.CLIENT.SERVICEURL.DEFAULTZONE: http://localhost:8761/eureka
+          EUREKA.CLIENT.SERVICEURL.DEFAULTZONE: http://naming-server:8761/eureka
           
     naming-server:
         image: micro-28min/mmv2-naming-server:0.0.1-SNAPSHOT
